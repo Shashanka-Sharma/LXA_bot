@@ -32,6 +32,12 @@ async def info(ctx):
     to automate away responsibilities
     for Lambda Chi Alpha. Acts as a central repository of 
     information related to the transitioning of officer roles.
+    If you have any questions, please contact my creator. 
+
+    Best,
+    Shashanka Sharma Theta Upsilon 1038
+
+    In ZAX
     """
     await ctx.channel.send(string)
 
@@ -49,6 +55,10 @@ async def High(ctx, arg):
         and guides each brother and associate member. 
         In order that he may carry out the duties of his office to the best of his ability, 
         the High Alpha should consider carefully these rules of action.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Alpha-PD.pdf
+        Operations Guide: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Alpha-PD.pdf
         """
     elif arg == 'Beta':
         string = """
@@ -59,7 +69,12 @@ async def High(ctx, arg):
         Under the direction of the High Alpha, 
         it is his responsibility that all officers, committees, 
         and individual members are performing to the highest degree to 
-        uphold the standards of Lambda Chi Alpha."""
+        uphold the standards of Lambda Chi Alpha.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Beta-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighBetaOpsGuide.pdf
+        """
     elif arg == 'Theta':
         string = """
         The High Theta's responsibilities are to originate, direct, 
@@ -68,6 +83,10 @@ async def High(ctx, arg):
         the faculty and administration, 
         other fraternities and sororities, the non-fraternity students, parents, alumni, 
         and the community in which this chapter is located.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Theta-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighThetaOpsGuide.pdf
         """
     elif arg == 'Gamma':
         string = """
@@ -76,6 +95,10 @@ async def High(ctx, arg):
         He is entrusted with the membership records of each member of the chapter and 
         responsible for reporting and submitting information in a timely manner to the 
         International Headquarters.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Gamma-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighGammaOpsGuide.pdf
         """
     elif arg == 'Tau':
         string = """
@@ -87,6 +110,10 @@ async def High(ctx, arg):
         financial affairs of the chapter, insist upon each member 
         fulfilling his individual obligations promptly, 
         and preserve the chapter assets in the development of long-range stability.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Tau-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighTauOpsGuide.pdf
         """
     elif arg == 'Iota':
         string = """
@@ -98,6 +125,10 @@ async def High(ctx, arg):
         Fraternity by conducting the operations of the chapter safely, 
         prudently, and in compliance with the laws and policies 
         both of Lambda Chi Alpha and the chapter's campus.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Iota-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighIotaOpsGuide.pdf
         """
     elif arg == 'Rho':
         string = """
@@ -108,6 +139,10 @@ async def High(ctx, arg):
         recognizes outstanding service to the Fraternity by individual alumni, 
         encourages involvement, and prepares those beginning 
         to transition into dedicated alumni brothers.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Rho-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighRhoOpsGuide.pdf
         """
     elif arg == 'Kappa':
         string = """
@@ -118,12 +153,20 @@ async def High(ctx, arg):
         mature acceptance of responsibility on the part of every undergraduate in 
         this chapter based on the history, 
         aims, ideals, and traditions of our country, the school, and Lambda Chi Alpha.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Kappa-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighKappaOpsGuide2.pdf
         """
     elif arg == 'Delta':
         string = """
         The High Delta provides for the future of his chapter by directing its membership recruitment program.
         His job is to lead recruitment efforts that will seek men with scholastic aptitude, 
         leadership potential, strength of character, and dedication to service.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Delta-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighDeltaOpsGuide.pdf
         """
     elif arg == 'Phi':
         string = """
@@ -134,6 +177,10 @@ async def High(ctx, arg):
         He must inspire the brotherhood to delve into 
         the teachings of our Fraternity and instruct on 
         how to apply those teachings to their daily lives.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Phi-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/Open-Ceremonies-Guide-Final.pdf
         """
     elif arg == 'Sigma':
         string = """
@@ -144,6 +191,10 @@ async def High(ctx, arg):
         and implementing an educational program 
         that encourages the broadest possible cultural and intellectual experience 
         for each member of the chapter.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Sigma-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighSigmaOpsGuide.pdf
         """
     elif arg == 'Epsilon':
         string = """
@@ -154,6 +205,10 @@ async def High(ctx, arg):
         and demonstration of acceptable standards of conduct; 
         those attributes of behavior 
         which distinguish a member of Lambda Chi Alpha as a gentleman.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Epsilon-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighEpsilonOpsGuide.pdf
         """
     elif arg == 'Pi':
         string = """
@@ -163,6 +218,10 @@ async def High(ctx, arg):
         It is important for the High Pi to 
         present a good example by attending meetings and other activities,
         and by conscientiously following the highest standards of conduct and integrity.
+
+        Additional Information
+        Position Description: https://www.lambdachi.org/wp-content/uploads/2021/06/High-Pi-PD.pdf
+        Operations Guide: https://lambdachi.org/wp-content/uploads/2020/08/HighPiOpsGuide.pdf
         """
 
     elif arg == 'Lucas':
